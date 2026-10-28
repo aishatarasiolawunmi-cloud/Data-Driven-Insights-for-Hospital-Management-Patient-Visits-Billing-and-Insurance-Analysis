@@ -5,6 +5,8 @@
 
 This project analyses patient visit data from Secure Life General Hospital to assess operational and financial performance. Using Microsoft Excel, an interactive dashboard was developed to monitor patient admissions, departmental performance, billing, payment status, insurance coverage, and patient demographics. The analysis provides insights to support management decision-making, improve resource allocation, and strengthen financial monitoring.
 
+![](introduction_image.png)
+
 
 ## About the Dataset
 
@@ -14,6 +16,13 @@ The dataset contains 1,000 patient visit records covering January 2024 to Decemb
 # Problem Statement
 
 Secure Life General Hospital has identified changes in patient admissions, outstanding medical bills, and variations in insurance coverage across departments. However, the hospital lacks a consolidated report that provides a clear overview of its operational and financial performance. This project addresses the need to transform raw patient records into meaningful insights through data analysis and an interactive Excel dashboard, enabling management to monitor performance, identify areas requiring attention, and make informed decisions.
+
+
+## Visualization
+
+![](Secure_Dashboard.png)
+
+Microsoft Excel was used for data cleaning, analysis, calculations, pivot tables, charts, and dashboard creation.
 
 
 ## Key Insights
